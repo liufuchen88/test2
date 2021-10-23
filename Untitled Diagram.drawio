@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T12:04:06.614Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="EEfMx1hdxQEwQWkcYeqw" version="15.5.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-23T12:05:54.265Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7vA1M4ndxh9gLWvApquO" version="15.5.8" type="github" pages="6">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -725,6 +725,12 @@
         </mxCell>
         <mxCell id="e3q-xs4CGgJVnTgZ_Z8_-18" value="value3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="racxQncaL3ZMMNgmSPx6-1">
           <mxGeometry x="786.5" y="536" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e3q-xs4CGgJVnTgZ_Z8_-19" value="value, 每个线程独占的原始数据副本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="racxQncaL3ZMMNgmSPx6-1">
+          <mxGeometry x="1080" y="290" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e3q-xs4CGgJVnTgZ_Z8_-20" value="thread1线程，同时访问三个threadlocal 的存储结构" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="racxQncaL3ZMMNgmSPx6-1">
+          <mxGeometry x="574" y="130" width="316" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
