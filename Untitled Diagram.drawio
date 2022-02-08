@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T06:19:25.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="c5B8EvOnLy3ATftJ7iFX" version="16.5.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-02-08T09:39:53.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="x9c3hp7Ia1PfytBYTVTP" version="16.5.3" type="github" pages="9">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1152,10 +1152,37 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s_72NemYovFHqs788rSN" name="顺风车行程发布-哈啰">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dcVL4GsbBokDR0ZIVDal-0" />
         <mxCell id="dcVL4GsbBokDR0ZIVDal-1" parent="dcVL4GsbBokDR0ZIVDal-0" />
+        <mxCell id="cBTVGa3eD5WcgMP365ve-0" value="三方运力&lt;br&gt;哈啰" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="dcVL4GsbBokDR0ZIVDal-1">
+          <mxGeometry x="100" y="210" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-5" value="顺风车后台服务&lt;br&gt;hotwheel-route" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="dcVL4GsbBokDR0ZIVDal-1">
+          <mxGeometry x="-730" y="210" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="cBTVGa3eD5WcgMP365ve-5">
+          <mxGeometry x="75" y="69" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-13" value="发布行程&lt;br&gt;passengerPublish" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cBTVGa3eD5WcgMP365ve-5">
+          <mxGeometry x="80" y="52" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="dcVL4GsbBokDR0ZIVDal-1">
+          <mxGeometry x="-810" y="210" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-7" value="费用预估predictFee" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="cBTVGa3eD5WcgMP365ve-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="10" y="65" as="sourcePoint" />
+            <mxPoint x="159.5" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-8" value="顺风车后台服务&lt;br&gt;hotwheel-route" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="dcVL4GsbBokDR0ZIVDal-1">
+          <mxGeometry x="-553" y="210" width="153" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cBTVGa3eD5WcgMP365ve-14" value="DB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="dcVL4GsbBokDR0ZIVDal-1">
+          <mxGeometry x="-320" y="210" width="153" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
