@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T10:20:18.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LBYoJDPjJ1c6sW6QKMGb" version="16.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-08T10:21:49.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="1ny1hxtgPdjIBPWFjn57" version="16.5.3" type="github" pages="10">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1194,7 +1194,7 @@
         <mxCell id="-rU1mu8zFv635gTx59ok-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gB5mOKDdeipiu-C3eoDr-1">
           <mxGeometry x="-473" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-rU1mu8zFv635gTx59ok-1" value="取消三方订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gB5mOKDdeipiu-C3eoDr-1">
+        <mxCell id="-rU1mu8zFv635gTx59ok-1" value="查询&lt;span style=&quot;color: rgb(0 , 51 , 102) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;bitstream vera sans mono&amp;#34; , &amp;#34;courier new&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;行程发布结果信息表&lt;/span&gt;&lt;br&gt;批量取消三方订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gB5mOKDdeipiu-C3eoDr-1">
           <mxGeometry x="-1720" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-rU1mu8zFv635gTx59ok-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gB5mOKDdeipiu-C3eoDr-1" source="-rU1mu8zFv635gTx59ok-2" target="-rU1mu8zFv635gTx59ok-1">
@@ -1211,13 +1211,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-rU1mu8zFv635gTx59ok-2" value="自动抢单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="gB5mOKDdeipiu-C3eoDr-1">
-          <mxGeometry x="-1880" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1910" y="250" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-rU1mu8zFv635gTx59ok-4" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gB5mOKDdeipiu-C3eoDr-1">
           <mxGeometry x="-1790" y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-rU1mu8zFv635gTx59ok-7" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="gB5mOKDdeipiu-C3eoDr-1">
-          <mxGeometry x="-1900" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1920" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
