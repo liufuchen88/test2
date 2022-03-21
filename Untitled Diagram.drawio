@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T11:57:46.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="bYjA1Y9WzFLaaIL0ELL0" version="17.1.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-03-21T11:58:02.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="PX75K15BiQDRSaS_9WT-" version="17.1.3" type="github" pages="14">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1878,9 +1878,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lKM58zqIk7fBoVSdeu4-3" value="发券判断" style="rhombus;whiteSpace=wrap;html=1;" parent="9lKM58zqIk7fBoVSdeu4-1" vertex="1">
-          <mxGeometry x="39" y="230" width="70" height="70" as="geometry" />
+          <mxGeometry x="39" y="234" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3OSiELYI0M31Qyfa4CJ0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9lKM58zqIk7fBoVSdeu4-1" source="9lKM58zqIk7fBoVSdeu4-8" target="9lKM58zqIk7fBoVSdeu4-3">
+        <mxCell id="3OSiELYI0M31Qyfa4CJ0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="9lKM58zqIk7fBoVSdeu4-1" source="9lKM58zqIk7fBoVSdeu4-8" target="9lKM58zqIk7fBoVSdeu4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lKM58zqIk7fBoVSdeu4-8" value="最优优惠券查询" style="whiteSpace=wrap;html=1;" parent="9lKM58zqIk7fBoVSdeu4-1" vertex="1">
@@ -1890,10 +1890,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lKM58zqIk7fBoVSdeu4-10" value="同步发券" style="whiteSpace=wrap;html=1;" parent="9lKM58zqIk7fBoVSdeu4-1" vertex="1">
-          <mxGeometry x="140" y="245" width="95" height="40" as="geometry" />
+          <mxGeometry x="140" y="249" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3OSiELYI0M31Qyfa4CJ0-1" value="&lt;pre style=&quot;margin-top: 0px ; margin-bottom: 0px ; color: rgb(51 , 51 , 51) ; font-size: 14px ; text-align: left&quot;&gt;mc_customer_coupon&lt;/pre&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="9lKM58zqIk7fBoVSdeu4-1">
-          <mxGeometry x="290" y="241.25" width="150" height="47.5" as="geometry" />
+          <mxGeometry x="290" y="244.25" width="150" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="3OSiELYI0M31Qyfa4CJ0-3" value="DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9lKM58zqIk7fBoVSdeu4-1">
           <mxGeometry x="245" y="241.25" width="30" height="20" as="geometry" />
