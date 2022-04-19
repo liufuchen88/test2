@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T02:12:24.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iutOFTBhY3AiH2xTuqnX" version="17.4.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-04-19T03:10:38.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="EMs-UrjcKitGUiNAVi0G" version="17.4.5" type="github" pages="16">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1908,7 +1908,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vVK7Cklj8FyepQA1D9EJ" name="乘客拉新活动邀请2.11">
-    <mxGraphModel dx="1422" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1506" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2137,9 +2137,6 @@
         </mxCell>
         <mxCell id="UQTV8jeJSiig_e3OYdWO-37" value="3.1&amp;nbsp; 微信授权登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="521" y="589" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="K_vLU-3Uy70IB9byYcp_-1" value="Object" style="html=1;" parent="1" vertex="1">
-          <mxGeometry x="201" y="-150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RjLKYCdQ4ZRfaGy7dimz-4" value="符合条件" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="241" width="80" height="45" as="geometry" />
