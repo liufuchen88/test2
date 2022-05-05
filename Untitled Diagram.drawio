@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T23:29:04.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="CsPdRZXzsxrDBhwEdAd7" version="18.0.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-05-05T23:37:50.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Y-yLQWYVSiEXgJ0mIFPK" version="18.0.1" type="github" pages="16">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2310,6 +2310,12 @@
             <mxPoint x="511" y="760" as="sourcePoint" />
             <mxPoint x="1137.0100000000002" y="760.338" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dWPYD9XTAYjk6BFBZMZG-9" value="（司乘同人 原地结算）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="834" y="903" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dWPYD9XTAYjk6BFBZMZG-10" value="（设备风险 同人）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="623" y="687" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
