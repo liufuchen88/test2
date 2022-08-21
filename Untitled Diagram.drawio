@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:55:52.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="e7-4C1DmwBF4tBJ8SZUx" version="20.2.5" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2022-08-21T13:49:48.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ga6-CFkHac8Ri6XekUvg" version="20.2.5" type="github" pages="20">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2658,7 +2658,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Acf2zl9Hy5pikFR3-2rI" name="5g消息原理">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2756,11 +2756,64 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="X8pkuWTP9iki5YKA2sjr" name="第 20 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="X8pkuWTP9iki5YKA2sjr" name="5G-RSC消息">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4GwfttjAag_KYyos7jr3-2" value="第三方短信平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4GwfttjAag_KYyos7jr3-3" target="2Qv7wrpYSWy765lw5J4e-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GwfttjAag_KYyos7jr3-3" value="终端用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2Qv7wrpYSWy765lw5J4e-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Qv7wrpYSWy765lw5J4e-2" target="4GwfttjAag_KYyos7jr3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="85" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-3" value="移动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-4" value="电信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-5" value="联通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-6" value="运营商通道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Qv7wrpYSWy765lw5J4e-8" target="2Qv7wrpYSWy765lw5J4e-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Qv7wrpYSWy765lw5J4e-8" target="2Qv7wrpYSWy765lw5J4e-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-8" value="5G消息终端" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-10" value="5G消息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-12" value="回落成其他形式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="225" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Qv7wrpYSWy765lw5J4e-15" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="215" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
