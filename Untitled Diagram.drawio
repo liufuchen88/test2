@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T14:11:50.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FcDE8ybvv2Evd_e7VrlR" version="20.2.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-09-02T01:35:16.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="c9X4pCNri3BmpRNYBnqC" version="20.2.7" type="github" pages="22">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2757,7 +2757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X8pkuWTP9iki5YKA2sjr" name="5G-RSC消息">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2818,7 +2818,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q9J0FaahZ6LoiPIEmCO4" name="日志框架">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2893,10 +2893,10 @@
         <mxCell id="-knlk8C8XhfEBbhdf6S_-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-knlk8C8XhfEBbhdf6S_-16" target="-knlk8C8XhfEBbhdf6S_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K8lSj6Ts-eNjDFnJfao-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-knlk8C8XhfEBbhdf6S_-16" target="-knlk8C8XhfEBbhdf6S_-18">
+        <mxCell id="_K8lSj6Ts-eNjDFnJfao-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-knlk8C8XhfEBbhdf6S_-16" target="-knlk8C8XhfEBbhdf6S_-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K8lSj6Ts-eNjDFnJfao-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-knlk8C8XhfEBbhdf6S_-16" target="-knlk8C8XhfEBbhdf6S_-19">
+        <mxCell id="_K8lSj6Ts-eNjDFnJfao-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-knlk8C8XhfEBbhdf6S_-16" target="-knlk8C8XhfEBbhdf6S_-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-knlk8C8XhfEBbhdf6S_-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2905,13 +2905,13 @@
         <mxCell id="-knlk8C8XhfEBbhdf6S_-17" value="Logstash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="535" y="311" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K8lSj6Ts-eNjDFnJfao-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-knlk8C8XhfEBbhdf6S_-18" target="-knlk8C8XhfEBbhdf6S_-21">
+        <mxCell id="_K8lSj6Ts-eNjDFnJfao-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-knlk8C8XhfEBbhdf6S_-18" target="-knlk8C8XhfEBbhdf6S_-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-knlk8C8XhfEBbhdf6S_-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="160" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K8lSj6Ts-eNjDFnJfao-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-knlk8C8XhfEBbhdf6S_-19" target="-knlk8C8XhfEBbhdf6S_-21">
+        <mxCell id="_K8lSj6Ts-eNjDFnJfao-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-knlk8C8XhfEBbhdf6S_-19" target="-knlk8C8XhfEBbhdf6S_-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-knlk8C8XhfEBbhdf6S_-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2935,12 +2935,20 @@
         <mxCell id="-knlk8C8XhfEBbhdf6S_-31" value="ES Master Node + Kibana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="315" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K8lSj6Ts-eNjDFnJfao-5" value="ES Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_K8lSj6Ts-eNjDFnJfao-5" value="ES Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="675" y="135" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K8lSj6Ts-eNjDFnJfao-6" value="ES Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_K8lSj6Ts-eNjDFnJfao-6" value="ES Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="675" y="385" width="70" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tPknyLpIbmkJAuN4t0uU" name="AIM消息短链发送">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
