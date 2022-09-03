@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T05:47:17.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KhdBxug6Wk2GW06w5JHh" version="20.2.7" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-09-03T07:20:17.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QTovTedJuSgriJBhHK4i" version="20.2.8" type="github" pages="23">
   <diagram id="mOvfN1anRyvzSEs-EWom" name="jmm">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3253,22 +3253,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tPknyLpIbmkJAuN4t0uU" name="AIM消息短链发送">
-    <mxGraphModel dx="881" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DVQosuB9yBoBVxavJrKs-3" value="service-gateway" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=25;" vertex="1" parent="1">
+        <mxCell id="DVQosuB9yBoBVxavJrKs-3" value="service-gateway" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=25;" parent="1" vertex="1">
           <mxGeometry x="60" y="170" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DVQosuB9yBoBVxavJrKs-4" value="inner-api" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DVQosuB9yBoBVxavJrKs-4" value="inner-api" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="190" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DVQosuB9yBoBVxavJrKs-5" value="message-center" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=25;" vertex="1" parent="1">
+        <mxCell id="DVQosuB9yBoBVxavJrKs-5" value="message-center" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=25;" parent="1" vertex="1">
           <mxGeometry x="240" y="170" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DVQosuB9yBoBVxavJrKs-6" value="sendctrl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DVQosuB9yBoBVxavJrKs-6" value="sendctrl" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="190" width="110" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mrjAKmfVszvpWatfZncy" name="推送处理器">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
